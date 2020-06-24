@@ -1,0 +1,27 @@
+{
+    "title": "Section Name (e.g. Flora, Fauna, etc)",
+    "imageURI": "Section Icon URI",
+    "image": {
+        "instanceID": 0
+    },
+    "groupData": [
+        {
+            "title": "Group Name (e.g. Pinus Monophyla)",
+            "imageURI": "Group Icon URI",
+            "image": {
+                "instanceID": 0
+            },
+            "description": "Description (e.g. Pinus monophylla, the single-leaf pinyon, (alternatively spelled piñon)...)",
+            "date": "Date (e.g. August 21, 1869)",
+            "webURI": "External URL (e.g. https://en.wikipedia.org/wiki/Pinus_monophylla)",
+            "relevance": "Relevance (e.g. Sage hens, grouse, and squirrels help to vary their wild diet...)",
+            "author": "Author (e.g. Toiyab)",
+            "copyright": "Copyright (e.g. CC BY-SA 3.0)",
+            "location": "LAT, LONG (e.g. 41.40338, 2.17403)",
+            "resourceURI": "Image URL (e.g. https://commons.wikimedia.org/wiki/File:Single-leaf_pinyon_2.jpg",
+            "resourceImage": {
+                "instanceID": 0
+            }
+        }
+    ]
+}

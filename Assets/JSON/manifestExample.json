@@ -1,0 +1,7 @@
+{
+    "appTitle": "Application Title (e.g. John Muir App)",
+    "remoteManifestURIs": [
+        "http://your_manifest.com/manifest.json",
+        "more manifest paths go here"
+    ]
+}

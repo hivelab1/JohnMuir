@@ -1,0 +1,27 @@
+{
+    "title": "Highway 132",
+    "imageURI": "http://www.parks.ca.gov/pages/491/images/Railtown1879_pano.jpg",
+    "image": {
+        "instanceID": 0
+    },
+    "groupData": [
+        {
+            "title": "37.9501605 Lat, -120.4149792 Lon",
+            "imageURI": "http://www.parks.ca.gov/pages/491/images/Railtown1879_pano.jpg",
+            "image": {
+                "instanceID": 0
+            },
+          "description": "It operated into the 1960s and was the last of the narrow – gauge logging railways operating in the American West. The Pickering Lumber Company operated an extensive logging railroad that extended northeast of Standard all the way north to what is now the South Grove of Big Trees State Park",
+            "date": "1897",
+            "webURI": "http://www.parks.ca.gov/?page_id=491",
+            "relevance": "Relevance (e.g. Sage hens, grouse, and squirrels help to vary their wild diet...)",
+            "author": "Author (e.g. Toiyab)",
+            "copyright": "Copyright (e.g. CC BY-SA 3.0)",
+            "location": "37.9501605, -120.4149792",
+            "resourceURI": "http://www.parks.ca.gov/pages/491/images/Railtown1879_pano.jpg",
+            "resourceImage": {
+                "instanceID": 0
+            }
+        }
+    ]
+}
